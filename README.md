@@ -40,4 +40,8 @@
   </a>
 </p>
 
+<h3 align="left">Certifications:</h3>
+
+[![GitHub Copilot Certified](https://images.credly.com/size/150x150/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob)](https://www.credly.com/badges/70392e2a-933e-4e06-b9bc-87037b41822a/public_url)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yagonr&show_icons=true&theme=dark&locale=en&layout=compact" alt="yagonr" /></p>
